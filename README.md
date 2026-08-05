@@ -1,4 +1,4 @@
-# SQL_An-lise_Vendas
+# SQL_Analise_Vendas
 Projeto de análise de vendas em SQL Server utilizando Views, CTEs, Window Functions e consultas analíticas.
 # Projeto SQL - Análise de Vendas
 
